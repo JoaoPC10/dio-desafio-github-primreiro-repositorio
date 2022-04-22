@@ -1,0 +1,1 @@
+- Esse arquivo foi passado do servidor local para a nuvem
